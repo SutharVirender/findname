@@ -1,1 +1,2 @@
-This is read me file
+this is program to find a given name in a list/array and gives back index of that name where it is present in array.
+this can be useful in storing different name from website and than that when it has been added and is it present in it or not.
